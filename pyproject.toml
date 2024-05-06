@@ -24,3 +24,6 @@ classifiers = [
 
 [project.urls]
 Home = "https://github.com/wereii/validate_email"
+
+[tool.ruff]
+line-length = 120
